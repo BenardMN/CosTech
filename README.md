@@ -1,2 +1,2 @@
 # CosTech
-Amultipage responsive website
+A responsive landing page website
